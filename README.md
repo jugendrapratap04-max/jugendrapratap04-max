@@ -7,7 +7,7 @@ Currently strengthening my Java and DSA fundamentals for placements.
 
 📍 Mathura, Uttar Pradesh, India
 
----
+<img src="./assets/divider.svg" width="100%" alt="">
 
 ## Featured Projects
 
@@ -20,28 +20,17 @@ Currently strengthening my Java and DSA fundamentals for placements.
 | **Aamvan Orchards** | Mango orchard business site with product pages and enquiry flow | [Visit](https://aamvan-orchards.vercel.app) · [Code](https://github.com/jugendrapratap04-max/aamvan-orchards) |
 | **Portfolio** | My personal site, fully driven by a single config file | [Visit](https://jugendra-pratap.vercel.app) · [Code](https://github.com/jugendrapratap04-max/portfolio) |
 
----
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## Building With
+## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="./assets/tech-stack.svg" width="100%" alt="Building with TypeScript, Next.js, React, Tailwind CSS, PostgreSQL, Prisma, Git and Vercel. Currently learning Java and Data Structures and Algorithms.">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## Currently Learning
+## GitHub Activity
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-4B5563?style=for-the-badge)
-
----
-
-## Contribution Activity
+<img src="https://raw.githubusercontent.com/jugendrapratap04-max/jugendrapratap04-max/output/stats.svg" width="100%" alt="GitHub stats: contributions in the last year, public repositories, commits across public repos and projects live on the web. Updated daily.">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jugendrapratap04-max/jugendrapratap04-max/output/github-snake-dark.svg">
@@ -49,7 +38,7 @@ Currently strengthening my Java and DSA fundamentals for placements.
   <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/jugendrapratap04-max/jugendrapratap04-max/output/github-snake.svg">
 </picture>
 
----
+<img src="./assets/divider.svg" width="100%" alt="">
 
 ## Contact
 
