@@ -1,93 +1,50 @@
-<div align="center">
+# Jugendra Pratap
 
-<h1>Hi there, I'm Jugendra Pratap! 👋</h1>
+**B.Tech CSE (Data Science) — GLA University, Mathura**
 
-<p>
-  <em>AI & Data Science Student at <strong>GLA University</strong> | Aspiring AI & Data Scientist</em>
-</p>
+I build and ship web applications. Six of my projects are live and publicly accessible.
+Currently strengthening my Java and DSA fundamentals for placements.
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Agents+%26+Data+Analytics+Projects;Learning+Python%2C+Java%2C+DSA+%26+ML;Open+to+Internship+%26+Collaboration!" alt="Typing SVG" />
-</p>
-
-</div>
+📍 Mathura, Uttar Pradesh, India
 
 ---
 
-## 🧑‍💻 About Me
+## Featured Projects
 
-- 🎓 **B.Tech CSE (Data Science)** student at **GLA University**, Mathura, UP, India
-- 🤖 Building **AI Agents**, Data Analytics Projects & Python Applications
-- 📊 Passionate about **Data Analysis**, **Data Visualization** & **Machine Learning**
-- 🌱 Currently learning **Java**, **Data Structures & Algorithms** & **Machine Learning**
-- 🤝 Open to **Learning**, **Collaboration** & **Internship Opportunities**
-- 📍 Based in **Mathura, Uttar Pradesh, India**
+| Project | What it does | Live |
+|---|---|---|
+| **Mithaas** | Premium sweets e-commerce storefront with product catalogue, cart and checkout flow | [Visit](https://stitchmithaaspremiumconfectioneryex.vercel.app) · [Code](https://github.com/jugendrapratap04-max/mithaas-sweets) |
+| **Etudo** | Data science learning platform with lessons, progress tracking and a study companion | [Visit](https://dataquest-navy.vercel.app) |
+| **NEEV Web Studio** | Template shop selling ready-made websites to small Indian businesses | [Visit](https://neev-5h1.pages.dev) |
+| **FEARLESS ESPORTS** | BGMI tournament platform with slot booking and match management | [Visit](https://fearless-esports.vercel.app) |
+| **Aamvan Orchards** | Mango orchard business site with product pages and enquiry flow | [Visit](https://aamvan-orchards.vercel.app) · [Code](https://github.com/jugendrapratap04-max/aamvan-orchards) |
+| **Portfolio** | My personal site, fully driven by a single config file | [Visit](https://jugendra-pratap.vercel.app) · [Code](https://github.com/jugendrapratap04-max/portfolio) |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Building With
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🤖 AI & Tools
-![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Currently Learning
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-4B5563?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats
+## Contact
 
-<div align="center">
+- Portfolio — [jugendra-pratap.vercel.app](https://jugendra-pratap.vercel.app)
+- LinkedIn — [jugendra-pratap-ds](https://www.linkedin.com/in/jugendra-pratap-ds/)
+- Email — [jugendrapratap04@gmail.com](mailto:jugendrapratap04@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jugendrapratap04-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugendrapratap04-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-```python
-jugendra = {
-    "role": "AI & Data Science Student",
-    "university": "GLA University, Mathura",
-    "currently_learning": ["Java", "DSA", "Machine Learning"],
-    "building": ["AI Agents", "Data Analytics Projects", "Python Apps"],
-    "looking_for": ["Internships", "Collaboration", "Open Source Projects"],
-    "goal": "Become a skilled AI & Data Scientist"
-}
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-jugendrapratap04--max-181717?style=for-the-badge&logo=github)](https://github.com/jugendrapratap04-max)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jugendrapratap04-max&label=Profile%20Views&color=2986CC&style=flat" alt="Profile Views" />
-  
-  <br/>
-  
-  <em>⭐ From <a href="https://github.com/jugendrapratap04-max">jugendrapratap04-max</a> — Thanks for visiting! 😊</em>
-</div>
+Open to internship and placement opportunities.
