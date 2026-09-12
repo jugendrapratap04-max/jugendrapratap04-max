@@ -1,6 +1,6 @@
-# Jugendra Pratap
-
-**B.Tech CSE (Data Science) — GLA University, Mathura**
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Jugendra Pratap, B.Tech CSE (Data Science) at GLA University, building web apps with Next.js and TypeScript">
+</p>
 
 I build and ship web applications. Six of my projects are live and publicly accessible.
 Currently strengthening my Java and DSA fundamentals for placements.
@@ -38,6 +38,16 @@ Currently strengthening my Java and DSA fundamentals for placements.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-4B5563?style=for-the-badge)
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jugendrapratap04-max/jugendrapratap04-max/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jugendrapratap04-max/jugendrapratap04-max/output/github-snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/jugendrapratap04-max/jugendrapratap04-max/output/github-snake.svg">
+</picture>
 
 ---
 
