@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile cards
 
 on:
   schedule:
@@ -13,6 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      # No continue-on-error: if any step fails nothing is pushed,
+      # so yesterday's cards stay up instead of turning into broken images.
+      - name: Generate stats card
+        run: node scripts/stats-card.mjs dist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:

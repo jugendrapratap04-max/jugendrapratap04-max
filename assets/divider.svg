@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="12" viewBox="0 0 850 12" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient>
+    <clipPath id="line"><rect y="5" width="850" height="2" rx="1"/></clipPath>
+  </defs>
+  <rect y="5" width="850" height="2" rx="1" fill="#64748b" fill-opacity=".35"/>
+  <g clip-path="url(#line)"><rect y="4" width="220" height="4" fill="url(#shine)" x="-220"><animate attributeName="x" dur="4.5s" repeatCount="indefinite" values="-220;850"/></rect></g>
+</svg>
