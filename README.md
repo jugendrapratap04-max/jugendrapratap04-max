@@ -15,7 +15,7 @@ Currently strengthening my Java and DSA fundamentals for placements.
 |---|---|---|
 | **Mithaas** | Premium sweets e-commerce storefront with product catalogue, cart and checkout flow | [Visit](https://stitchmithaaspremiumconfectioneryex.vercel.app) · [Code](https://github.com/jugendrapratap04-max/mithaas-sweets) |
 | **Etudo** | Data science learning platform with lessons, progress tracking and a study companion | [Visit](https://dataquest-navy.vercel.app) |
-| **NEEV Web Studio** | Template shop selling ready-made websites to small Indian businesses | [Visit](https://neev-5h1.pages.dev) |
+| **NEEV Web Studio** | Template shop selling ready-made websites to small Indian businesses | [Visit](https://neev-5h1.pages.dev) · [Code](https://github.com/jugendrapratap04-max/neev) |
 | **FEARLESS ESPORTS** | BGMI tournament platform with slot booking and match management | [Visit](https://fearless-esports.vercel.app) |
 | **Aamvan Orchards** | Mango orchard business site with product pages and enquiry flow | [Visit](https://aamvan-orchards.vercel.app) · [Code](https://github.com/jugendrapratap04-max/aamvan-orchards) |
 | **Portfolio** | My personal site, fully driven by a single config file | [Visit](https://jugendra-pratap.vercel.app) · [Code](https://github.com/jugendrapratap04-max/portfolio) |
